@@ -27,7 +27,7 @@ def generate_password(length,chars):
 
 digits='0123456789'
 lowercase_let='abcdefghijklmnopqrstuvwxyz'
-uppercase_let='GHIJKLMNOPQRSTUVWXYZ'
+uppercase_let='ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 punctuation= '!#$%&*+-=?@^_.'
 
 chars = ''
